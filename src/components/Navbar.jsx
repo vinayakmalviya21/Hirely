@@ -26,7 +26,7 @@ export default function Navbar() {
               <a href="#About">About</a>
             </li>
             <li className="ml-12">
-              <a href="#Blog">Blogs</a>
+              <a href="#Services">Services</a>
             </li>
             <li className="ml-12">
               <a href="#Testimonials">Testimonials</a>
